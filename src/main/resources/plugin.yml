@@ -1,0 +1,9 @@
+name: Technik_AG
+version: '${project.version}'
+main: net.labstorm.technik_ag.Main
+api-version: 1.19
+commands:
+  votekick:
+    description: vote to kick a player
+    usage: /votekick <player>
+    aliases: vt
